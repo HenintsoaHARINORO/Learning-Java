@@ -1,6 +1,6 @@
 package com.practicaljava.lesson7.tryit;
 
-public class Employee {
+public class Employee implements Payable{
 	private String name;
 
 	public Employee(String name) {
