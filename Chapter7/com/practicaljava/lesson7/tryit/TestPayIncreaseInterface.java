@@ -7,7 +7,7 @@ public class TestPayIncreaseInterface {
 		workers[1] = new Contractor("Mary");
 		workers[2] = new Employee("Steve");
 		for (Payable p : workers) {
-			((Payable) p).increasePay(30);
+			p.increasePay(30);
 		}
 	}
 }
