@@ -1,0 +1,6 @@
+College Admission Predictor
+
+This project Engineering Admission Predictor System is web based application in which students can register with their personal as well as marks details for prediction the admission in colleges and the administrator can allot the seats for the students. Administrator can add the college details and he batch details. Using this software, the entrance seat allotment became easier and can be implemented using system. The main advantage of the project is the computerization of the entrance seat allotment process. Administrator has the power for the allotment. He can add the allotted seats into a file and the details are saved into the system. The total time for the entrance allotment became lesser and the allotment process became faster.
+Features:
+It helps students to get the list of colleges to which they can apply as the system shortlists the colleges by comparing the student’s marks and college's cut off.
+Admin manages all the system related task such as adding college details, specifying cut-off details, managing college details, viewing student’s details and viewing feedback from registered students.

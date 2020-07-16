@@ -1,0 +1,12 @@
+Search Engine using Web Annotation
+
+When user enters some words in search engine, system fetches automatically those pages which contain those words this happens due to web annotation. Web annotation has become one of the ongoing research topics. Here in this project we will apply web annotation on pages or images. User must enter the image names he is searching for and system will fetch those images which contains same image annotation. Web annotation helps to create user friendliness. A web annotation which is associated with web resources such as web pages or images. With a Web annotation system, a user can add, modify or remove information from a Web resource without modifying the resource itself. Web annotations are visible to the users. We here proposed a system where user will enter search keywords of content or image. System will match the keyword with annotation if system finds matching content or image. System will display those content and image to user. We here used an effective algorithm to generate query result page or search result records based on a user’s query. User can search any details faster. System is user friendly, any user can use the system.
+
+Features:
+    • Admin Login: Admin can login to the system using his credentials.
+        ◦ Add Keywords : Admin can add keywords 
+        ◦ Add images: Admin can add images along with annotation.
+        ◦ View Feedback: Admin can view feedback of user.
+    • User Login: User must register himself by entering his details using the user id and password. User can login to the system.
+        ◦ Search engine: User must enter some keywords. System will fetch details which match those keywords.
+        ◦ Add Feedback: User can add feedback
